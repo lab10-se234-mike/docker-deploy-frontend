@@ -3,4 +3,4 @@ services:
   frontend:
     image: mikevasaski/234-deploylab-frontend-new:latest
     ports:
-      - "9999:80"
+      - "9989:80"
